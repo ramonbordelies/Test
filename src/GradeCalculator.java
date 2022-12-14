@@ -81,7 +81,8 @@ public class GradeCalculator {
     public static void GPAcalculator() {
         System.out.println("Your GPA");
         System.out.println("You spelled 'sometimes' wrong!");
-        System.out.println("jif peanut butter");
+        System.out.println("gif peanut butter!");
+
 
 
         /*
